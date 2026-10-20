@@ -1,0 +1,17 @@
+{
+ "name": "Pinta con los Pintamigos",
+ "short_name": "Pintamigos",
+ "start_url": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#E4F4FD",
+ "theme_color": "#7CC8F2",
+ "lang": "es",
+ "icons": [
+  {
+   "src": "icono.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
